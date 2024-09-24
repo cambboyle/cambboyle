@@ -1,5 +1,3 @@
-![👋 Hi, my name is Cameron Boyle](https://github.com/cambboyle/cambboyle/blob/main/NASAunsplash.jpg)
-
 ![Profile views](https://komarev.com/ghpvc/?username=cambboyle&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
