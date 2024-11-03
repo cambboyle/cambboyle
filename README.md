@@ -15,8 +15,6 @@
 
  **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
 - 🌱 I'm currently learning: **📚 React and Typescript**
 
  **<h3 align="left">Skills</h3>**
