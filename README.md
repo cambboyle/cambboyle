@@ -17,7 +17,6 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce site using Django and PostgreSQL**
 - 🌱 I'm currently learning: **📚 React and Typescript**
 
  **<h3 align="left">Skills</h3>**
