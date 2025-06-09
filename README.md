@@ -8,10 +8,12 @@
 
 ## 🖥️ Technologies
 
-- **Languages:** JavaScript (ES6+)
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express
+- **Languages:** JavaScript (ES6+), Python
+- **Frontend:** React
+- **Backend:** Node.js, Express, Django, Flask
+- **Databases:** MongoDB, PostgreSQL, NoSQL
 - **Other Interests:** Always learning new frameworks, productivity tools, and best practices
+- **Currently Learning:** C# & .NET whilst expanding my Node.js knowledge
 
 ## 🚀 About Me
 
