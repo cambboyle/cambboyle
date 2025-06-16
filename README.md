@@ -8,7 +8,7 @@
 
 ## 🖥️ Technologies
 
-- **Languages:** JavaScript (ES6+), Python
+- **Languages:** JavaScript (ES6+), Python, TypeScript
 - **Frontend:** React
 - **Backend:** Node.js, Express, Django, Flask
 - **Databases:** MongoDB, PostgreSQL, NoSQL
