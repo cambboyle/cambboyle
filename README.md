@@ -16,8 +16,8 @@ I'm Cameron, a Software Engineer passionate about web development, continuous le
 
 ## About Me
 
-- I love building and learning more as I do so, and I'm always looking for ways to improve as an engineer.
-- Currently exploring new tech stacks and productivity hacks to become a better developer.
+- I love building and learning more as I do so, and I'm always looking for ways to improve as an engineer
+- Currently exploring new tech stacks and productivity hacks to become a better developer
 
 ## Hobbies
 
