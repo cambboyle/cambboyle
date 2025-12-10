@@ -1,23 +1,23 @@
 # Cameron Boyle
 
-I'm Cameron, a Software Engineer passionate about web development, continuous learning, and personal growth.
+I'm Cameron, a Full Stack Developer who loves continuously learning.
 
 - **Personal Site:** [cambboyle.me](https://cambboyle.me)
 - **LinkedIn:** [linkedin.com/in/cbb00](https://www.linkedin.com/in/cbb00/)
 
 ## Technologies
 
-- **Languages:** JavaScript (ES6+), Python, TypeScript
-- **Frontend:** React
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MongoDB, PostgreSQL, NoSQL
+- **Languages:** JavaScript (ES6+), **TypeScript**, Python, C#
+- **Frontend:** **React**
+- **Backend:** Node.js, **NestJS**, Express, Django, Flask, .NET
+- **Databases:** **MySQL**, MongoDB, PostgreSQL, NoSQL
 - **Other Interests:** Always learning new frameworks, productivity tools, and best practices
-- **Currently Learning:** C# & .NET whilst expanding my Node.js knowledge
+- **Currently Learning:** NestJS
 
 ## About Me
 
-- I love building and learning more as I do so, and I'm always looking for ways to improve as an engineer
-- Currently exploring new tech stacks and productivity hacks to become a better developer
+- I love building and learning more as I do, and I'm always looking for ways to improve as an engineer
+- Currently exploring new practices and productivity hacks to become a better developer
 
 ## Hobbies
 
