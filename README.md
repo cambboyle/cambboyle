@@ -12,7 +12,7 @@ I'm Cameron, a Full Stack Developer who loves continuously learning.
 - **Backend:** Node.js, **NestJS**, Express, Django, Flask, .NET
 - **Databases:** **MySQL**, MongoDB, PostgreSQL, NoSQL
 - **Other Interests:** Always learning new frameworks, productivity tools, and best practices
-- **Currently Learning:** NestJS
+- **Currently Learning:** NestJS, Lua for NeoVim, CI/CD
 
 ## About Me
 
