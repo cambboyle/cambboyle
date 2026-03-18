@@ -2,7 +2,6 @@
 
 I'm Cameron, a Full Stack Developer who loves continuously learning.
 
-- **Personal Site:** [cambboyle.me](https://cambboyle.me)
 - **LinkedIn:** [linkedin.com/in/cbb00](https://www.linkedin.com/in/cbb00/)
 
 ## Technologies
