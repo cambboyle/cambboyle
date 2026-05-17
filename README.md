@@ -6,12 +6,12 @@ I'm Cameron, a Full Stack Developer who loves continuously learning.
 
 ## Technologies
 
-- **Languages:** JavaScript (ES6+), **TypeScript**, Python, C#
+- **Languages:** JavaScript (ES6+), **TypeScript**, Python, C#, Lua
 - **Frontend:** **React**
 - **Backend:** Node.js, **NestJS**, Express, Django, Flask, .NET
 - **Databases:** **MySQL**, MongoDB, PostgreSQL, NoSQL
 - **Other Interests:** Always learning new frameworks, productivity tools, and best practices
-- **Currently Learning:** NestJS, Lua for NeoVim, CI/CD
+- **Currently Learning:** Linux, Cybersecurity, AWS
 
 ## About Me
 
